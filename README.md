@@ -30,6 +30,6 @@
 ![image](https://github.com/Dataholic-16/Cricket-world-cup/assets/135443003/74f1746a-c8b9-4b65-8bed-bb7f8020b7ae)
 
 
-Special thanks to Codebasics team for providing the data and Mr.Dhaval Patel for guiding throughout the project
+Special thanks to Codebasics team for providing the data and Mr.Dhaval Patel for guiding throughout the project.
 
 
